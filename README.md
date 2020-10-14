@@ -1,5 +1,3 @@
-[![Build Status](https://dev.azure.com/Jean-YvesEmpeigne/Demo%20-%20Python/_apis/build/status/zilwah.Azure-DevOps?branchName=master)](https://dev.azure.com/Jean-YvesEmpeigne/Demo%20-%20Python/_build/latest?definitionId=3&branchName=master)
-
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
